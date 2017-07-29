@@ -2,13 +2,6 @@
     width: 400px;
     margin:170px auto;
 }
-.STRSStitle{
-    font-size: 30px;
-}
 body{
-    background: #F7FAFC;
-    background: #fff;
-}
-#canvas{
-    display: inline-block;
+    background-image: url("img/bgimg.png")
 }
