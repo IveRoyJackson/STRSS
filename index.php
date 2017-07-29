@@ -16,17 +16,18 @@
         <a href="#!" class="brand-logo center">教学资源共享系统STRSS</a>
       </div>
     </nav>
+    <form method="post" action="check.php">
      <div class="loginmod">
          <div class="card-panel hoverable">
            <div class="row">
              <div class="input-field col s12">
-              <input id="last_name" type="text" class="validate">
+              <input id="last_name" type="text" class="validate" name="name">
               <label for="last_name">识别码</label>
              </div>
             <div>
             <div class="row">
              <div class="input-field col s12">
-              <input id="password" type="password" class="validate">
+              <input id="password" type="password" class="validate" name="password">
               <label for="password">密码</label>
              </div>
             </div>
@@ -39,6 +40,7 @@
      </div>
      </div>
      </div>
+     </form>
      <footer class="page-footer">
           <div class="container">
             <div class="row">
