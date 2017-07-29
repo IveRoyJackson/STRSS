@@ -1,4 +1,3 @@
-<meta charset="UTF-8">
 <?php  
 require_once("ms_index.php");  
 //require_once ("mysql_connect.php");  

@@ -1,4 +1,3 @@
-<meta charset="UTF-8">
 <?php  
 //从test数据库中提取数据  
   
