@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 <?php  
 // 连接服务器，并且选择test数据库  
 function(){  

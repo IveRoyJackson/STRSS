@@ -1,5 +1,6 @@
+<meta charset="UTF-8">
 <?php  
-require_once("ms_login.php");  
+require_once("ms_index.php");  
 //require_once ("mysql_connect.php");  
 $name=$_POST['name'];  
 $password=$_POST['password'];  
@@ -7,7 +8,7 @@ if($name == "")
 {  
   
     echo "请填写用户名<br>";  
-     echo"<script type='text/javascript'>alert('请填写用户名');location='login.php';  
+     echo"<script type='text/javascript'>alert('请填写用户名');location='index.php';  
             </script>";  
       
       
@@ -17,8 +18,8 @@ if($name == "")
 elseif($password == "")  
 {  
   
-     //echo "请填写密码<br><a href='login.php'>返回</a>";  
-    echo"<script type='text/javascript'>alert('请填写密码');location='login.php';</script>";  
+     //echo "请填写密码<br><a href='index.php'>返回</a>";  
+    echo"<script type='text/javascript'>alert('请填写密码');location='index.php';</script>";  
       
 }  
 else  
@@ -36,9 +37,9 @@ else
      else  
   
          //echo "密码错误<br>";  
-        echo"<script type='text/javascript'>alert('密码错误');location='login.php';</script>";  
+        echo"<script type='text/javascript'>alert('密码错误');location='index.php';</script>";  
   
-     //echo "<a href='login.php'>返回</a>";  
+     //echo "<a href='index.php'>返回</a>";  
   
 }  
 ?>  
