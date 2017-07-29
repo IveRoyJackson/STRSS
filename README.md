@@ -1,5 +1,7 @@
 <h1>STRSS</h1>
+<pre>
 <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" /><img src="https://img.shields.io/badge/Developer-TianZiheng-green.svg" /><img src="https://img.shields.io/badge/CSS-Materialize-pink.svg" /><img src="https://img.shields.io/badge/Statu-Developing-yellow.svg">
+</pre>
 <h2>Introduction</h2>
 The STRSS is means "School Teaching Resources Sharing System".Develope by TianZiheng.
 <br />
