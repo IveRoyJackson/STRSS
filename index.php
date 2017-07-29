@@ -48,7 +48,7 @@
               </div>
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">介绍</h5>
-                <p>实用的教学资源共享系统</p>
+                <p>易上手的教学资源共享系统</p>
               </div>
             </div>
           </div>
