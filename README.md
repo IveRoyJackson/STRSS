@@ -25,7 +25,7 @@ It's easy for use.The teacher(or administrator) can upload&download the teaching
 <br />
 It's sounds like the OneDrive.But STRSS sharing of teaching resources is very specific.
 <br />
-<font clolor=red>Only Support Chinese</font>
+Only Support Chinese.
 <h2>About Open Source</h2>
 STRSS follow the GPLv3.
 <br />
