@@ -31,7 +31,7 @@ Only Support Chinese.
 <h2>About Open Source</h2>
 STRSS follow the GPLv3.
 <br />
-Please retain signature.
+Please retain the copyright information in a significant position.
 <br />
 <h2>Install</h2>
 Clone or download ZIP.
