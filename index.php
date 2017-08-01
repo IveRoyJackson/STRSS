@@ -31,7 +31,7 @@ function get($str){
 if(post("submit")){
     define('DB_HOST','localhost');
     define('DB_USER','root');
-    define('DB_PWD','Buttest123!');
+    define('DB_PWD','12345');
     define('DB_NAME','strss');
 
     //连接数据库
