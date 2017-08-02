@@ -5,3 +5,7 @@
 body{
     background-image:url("https://tianziheng-top-static.smartgslb.com/STRSS/img/bgimg.png")
 }
+.filelist{
+    width: 1000px;
+    margin: 60px auto;
+}
