@@ -36,7 +36,7 @@ Please retain the copyright information in a significant position.
 <h2>Install</h2>
 Clone or download ZIP.
 <br />
-Config your MySQL information.
+Config your MySQL information in index.php.
 <br />
 Run!
 <br />
