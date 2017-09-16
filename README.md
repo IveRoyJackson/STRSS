@@ -20,7 +20,7 @@
 </table>
 <b><i>----------------------------------------EN----------------------------------------</i></b>
 <h2>Introduction</h2>
-The STRSS is means "School Teaching Resources Sharing System".Develope by TianZiheng.
+The STRSS is means "School Teaching Resources Sharing System".This system's developer is TianZiheng. 
 <br />
 It's easy for use.The teacher(or administrator) can upload&download the teaching resources and the student(or visitor but the administrator need turn on the power to make sure the visitor can download) can download.
 <br />
