@@ -38,7 +38,7 @@ Clone or download ZIP.
 <br />
 Config your MySQL information in index.php.
 <br />
-Run!
+Running!
 <br />
 <br />
 <b><i>----------------------------------------中文----------------------------------------</i></b>
