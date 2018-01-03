@@ -26,7 +26,9 @@ It's easy for use.The teacher(or administrator) can upload&download the teaching
 <br />
 It's sounds like the OneDrive.But STRSS sharing of teaching resources is very specific.
 <br />
-Only support Chinese.
+Only support Chinese.But more languages will be supported later. And of course you are welcome to join our translation program.
+<br />
+If you want to join the translation program, please leave us a message in Issues! 
 <br />
 <h2>About Open Source</h2>
 STRSS follow the GPLv3.
